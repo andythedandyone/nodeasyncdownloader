@@ -9,7 +9,5 @@
   "author": "Andythedandyone",
   "license": "ISC",
   "dependencies": {
-    "node-wget": "^0.4.2",
-    "wget-improved": "^1.5.0"
   }
 }
