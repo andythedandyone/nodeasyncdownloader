@@ -16,10 +16,10 @@ const data_folder = './data'; // the folder path to where you want to downalod t
 // You may download up to 2 years of data at a time, however this will take some
 // time depending on your computer resources and internet speed.
 const searchBase = {
-	fromYear: 2015,
+	fromYear: 2017,
 	fromMonth: 1,
-	currentYear: 2016,
-	currentMonth: 11
+	currentYear: 2018,
+	currentMonth: 5
 }
 
 // scan the base folder by providing the search settings and base url
